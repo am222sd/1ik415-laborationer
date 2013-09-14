@@ -41,3 +41,4 @@
 {"ts":1378379971781,"patch":[[{"diffs":[[0,"t.com/\">"],[1," Deviantart </a>"],[0," </p>\n  "]],"start1":392,"start2":392,"length1":16,"length2":32}]],"length":3819,"saved":false}
 {"ts":1378379982834,"patch":[[{"diffs":[[0,"ar målat"],[1," "],[0,"<a href="]],"start1":342,"start2":342,"length1":16,"length2":17},{"diffs":[[0,"t.com/\">"],[-1," "],[0,"Devianta"]],"start1":393,"start2":393,"length1":17,"length2":16}]],"length":3819,"saved":false}
 {"ts":1378380172872,"patch":[[{"diffs":[[0," <body>\n"],[1,"    <!-- Påbörjad 130904 av Anna Mattsson -->\n    <!-- Ändrad flera gånger 130905 av Anna Mattsson -->\n"],[0,"        "]],"start1":102,"start2":102,"length1":16,"length2":119}]],"length":3922,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1379156421756,"patch":[[{"diffs":[[1,"<!doctype html>\n"],[0,"<html>\n "]],"start1":0,"start2":0,"length1":8,"length2":24}]],"length":3938,"saved":false}
